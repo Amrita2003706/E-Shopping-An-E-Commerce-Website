@@ -1,6 +1,6 @@
-🎥 Project Title: Responsive Fitness Website | Gym Landing Page UI
+🎥 Project Title: E-Shopping Website | Responsive Online Store UI Using Bootstrap
 
-🌐 Live Demo: 
+🌐 Live Demo: https://amrita2003706.github.io/E-Shopping-An-E-Commerce-Website/
 
 📂 GitHub Repo: E-Shopping-An-E-Commerce-Website
 
@@ -9,6 +9,8 @@
 
 🛍️ E-Shopping Website | Responsive Online Store UI Using Bootstrap
 Welcome to the E-Shopping Website – a fully responsive online store front-end built using HTML5, CSS3, Bootstrap 5, and Font Awesome. This project showcases a clean, modern, and mobile-friendly design ideal for any e-commerce platform.
+
+
 [![E-Shopping](https://github.com/user-attachments/assets/f339d11e-5968-46c8-a8a8-a09022ff0f42)](https://youtu.be/93nW96cbtUI)
 
 
@@ -47,14 +49,17 @@ Edit
 /e-shopping-website
 │
 ├── index.html
-├── about.html
-├── contact.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js (optional for interactivity)
+
+├── login.html
+
+├── grid.html
+
+├── footer.html
+
 ├── images/
+
 │   └── product images, logos, banners, etc.
+
 └── README.md
 🎯 Purpose:
 This project is perfect for:
@@ -67,13 +72,6 @@ UI/UX design practice for online shopping platforms
 
 Creating your portfolio project
 
-📽️ Watch Demo Video:
-🔗 [YouTube Link Here]
-🎥 Walkthrough of the complete layout and features.
-
-📌 GitHub Repository:
-🔗 [GitHub Repo Link]
-Feel free to fork, clone, and customize!
 
 🙌 Support & Feedback:
 If you find this project helpful, feel free to ⭐ star the repo and subscribe to my channel for more web development tutorials.
