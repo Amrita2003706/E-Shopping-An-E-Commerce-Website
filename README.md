@@ -13,9 +13,9 @@ Welcome to the E-Shopping Website – a fully responsive online store front-end 
 
 [![E-Shopping](https://github.com/user-attachments/assets/f339d11e-5968-46c8-a8a8-a09022ff0f42)](https://youtu.be/93nW96cbtUI)
 
-![image](https://github.com/user-attachments/assets/c308d864-6612-4e55-9024-888322aafae9)
-
 ![image](https://github.com/user-attachments/assets/883255b2-7f32-43a2-aae3-0f29eb87c7f8)
+
+![image](https://github.com/user-attachments/assets/4d7fc909-46df-4a2e-b19d-51a360491ff6)
 
 ![image](https://github.com/user-attachments/assets/89193899-f95b-4b62-bd02-6d8647a3f8d1)
 
